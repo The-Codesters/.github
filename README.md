@@ -1,1 +1,2 @@
-# .github-private
+# The Codesters
+The capstone group :)
